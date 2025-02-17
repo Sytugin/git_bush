@@ -59,11 +59,11 @@ Oleg@DESKTOP-HF693OU MINGW64 ~/Documents/Bash_training/test4 $ less 1           
 ## Задание 2
 #### Поиск и редактирование файлов, работа с процессами, проверка доступности сервера, передача данных на сервер в bash:
 ```
-Oleg@DESKTOP-HF693OU MINGW64 ~/Documents/Bash_training $ mkdir test3                    # Создать папку test 3
+Oleg@DESKTOP-HF693OU MINGW64 ~/Documents/Bash_training $ mkdir test3                                        # Создать папку test 3
 
 Oleg@DESKTOP-HF693OU MINGW64 ~/Documents/Bash_training $ cd test3
 
-Oleg@DESKTOP-HF693OU MINGW64 ~/Documents/Bash_training/test3 $ echo row 1 > 4.txt       # Добавить в папку test 3 три файла 4, 5 и 6, в каждом из которых должно быть по 4 строки row1, row2, row3, row4
+Oleg@DESKTOP-HF693OU MINGW64 ~/Documents/Bash_training/test3 $ echo row 1 > 4.txt                           # Добавить в папку test 3 три файла 4, 5 и 6, в каждом из которых должно быть по 4 строки row1, row2, row3, row4
 Oleg@DESKTOP-HF693OU MINGW64 ~/Documents/Bash_training/test3 $ echo row 2 >> 4.txt
 Oleg@DESKTOP-HF693OU MINGW64 ~/Documents/Bash_training/test3 $ echo row 3 >> 4.txt
 Oleg@DESKTOP-HF693OU MINGW64 ~/Documents/Bash_training/test3 $ echo row 4 >> 4.txt
